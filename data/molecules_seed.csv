@@ -1,0 +1,13 @@
+name,formula,smiles
+Ethanol,C2H6O,CCO
+Acetic acid,C2H4O2,CC(=O)O
+Benzene,C6H6,C1=CC=CC=C1
+Methanol,CH4O,CO
+Acetone,C3H6O,CC(=O)C
+Toluene,C7H8,Cc1ccccc1
+Phenol,C6H6O,Oc1ccccc1
+Glucose,C6H12O6,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+Caffeine,C8H10N4O2,Cn1cnc2c1c(=O)n(C)c(=O)n2C
+Aspirin,C9H8O4,CC(=O)Oc1ccccc1C(=O)O
+Urea,CH4N2O,NC(=O)N
+Glycerol,C3H8O3,OCC(O)CO
